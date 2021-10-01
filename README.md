@@ -1,6 +1,6 @@
 # HospitalManagementSystem
 -----------------------------------------------------
-This is a Spring Boot Web Application. This application will use a hospitals Admin, Doctor, Pathologist, Receptionist and also Patients.
+This is a Spring Boot Web Application. This application will use a hospitals Admin, Doctor, Pathologist, Receptionist and also Patients. A Patient can apply for CoVID-19 test and can also book an appointment to meet a doctor. He/She can also get his/her prescription, report and bill boucher. He/She can watch avalable offers. Admin can mamage everything and analyes incomes. Doctor can approve appointment and create prescription. Pathologist can create report for doctor's given test. Receptionist can approve COVID-19 test applications and create invoice for a patient.
 
 # Requirements
 ----------------------------------------------------
