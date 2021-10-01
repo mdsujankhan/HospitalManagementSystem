@@ -5,8 +5,8 @@ This is a Spring Boot Web Application. This application will use a hospitals Adm
 # Requirements
 ----------------------------------------------------
 For building and running the application you need:
-=>JDK 1.8
-=>Maven 3
+.JDK 1.8
+.Maven 3
 
 #Used Technology
 ----------------------------------------------------
